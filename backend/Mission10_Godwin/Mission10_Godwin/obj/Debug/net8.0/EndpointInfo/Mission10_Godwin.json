@@ -1,0 +1,160 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Mission10_Godwin",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Bowler": {
+      "get": {
+        "tags": [
+          "Bowler"
+        ],
+        "operationId": "GetBowlers",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BowlerDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BowlerDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BowlerDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BowlerDto": {
+        "type": "object",
+        "properties": {
+          "bowlerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "bowlerLastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerFirstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerMiddleInit": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerAddress": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerState": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerZip": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerPhoneNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "teamName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

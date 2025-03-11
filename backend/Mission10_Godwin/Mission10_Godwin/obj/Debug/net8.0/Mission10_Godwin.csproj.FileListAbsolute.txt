@@ -134,3 +134,5 @@ C:\Users\tater\OneDrive - Brigham Young University\Classes\Info Sys\IS 413 DotNe
 C:\Users\tater\OneDrive - Brigham Young University\Classes\Info Sys\IS 413 DotNet\Mission10_Godwin_Bowling\backend\Mission10_Godwin\Mission10_Godwin\obj\Debug\net8.0\Mission10_Godwin.pdb
 C:\Users\tater\OneDrive - Brigham Young University\Classes\Info Sys\IS 413 DotNet\Mission10_Godwin_Bowling\backend\Mission10_Godwin\Mission10_Godwin\obj\Debug\net8.0\Mission10_Godwin.genruntimeconfig.cache
 C:\Users\tater\OneDrive - Brigham Young University\Classes\Info Sys\IS 413 DotNet\Mission10_Godwin_Bowling\backend\Mission10_Godwin\Mission10_Godwin\obj\Debug\net8.0\ref\Mission10_Godwin.dll
+C:\Users\tater\OneDrive - Brigham Young University\Classes\Info Sys\IS 413 DotNet\Mission10_Godwin_Bowling\backend\Mission10_Godwin\Mission10_Godwin\obj\Debug\net8.0\Mission10_Godwin.sourcelink.json
+C:\Users\tater\OneDrive - Brigham Young University\Classes\Info Sys\IS 413 DotNet\Mission10_Godwin_Bowling\backend\Mission10_Godwin\Mission10_Godwin\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

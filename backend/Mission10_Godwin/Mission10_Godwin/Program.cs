@@ -22,6 +22,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors(x => x.WithOrigins("http://localhost:3000")); // Allow access from localhost port 3000
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
