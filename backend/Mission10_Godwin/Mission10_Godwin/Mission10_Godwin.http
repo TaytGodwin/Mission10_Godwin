@@ -1,0 +1,6 @@
+@Mission10_Godwin_HostAddress = http://localhost:5120
+
+GET {{Mission10_Godwin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
