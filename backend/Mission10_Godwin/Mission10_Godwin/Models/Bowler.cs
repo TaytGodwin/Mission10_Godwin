@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Mission10_Godwin.Models;
 
 public partial class Bowler
 {
+    [Key]
     public int BowlerId { get; set; }
 
     public string? BowlerLastName { get; set; }

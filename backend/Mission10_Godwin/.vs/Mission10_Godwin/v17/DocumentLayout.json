@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tater\\OneDrive - Brigham Young University\\Classes\\Info Sys\\IS 413 DotNet\\Mission10_Godwin_Bowling\\backend\\Mission10_Godwin\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9FCB2F-742C-450D-BA5E-07F7145AC74D}|Mission10_Godwin\\Mission10_Godwin.csproj|c:\\users\\tater\\onedrive - brigham young university\\classes\\info sys\\is 413 dotnet\\mission10_godwin_bowling\\backend\\mission10_godwin\\mission10_godwin\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9FCB2F-742C-450D-BA5E-07F7145AC74D}|Mission10_Godwin\\Mission10_Godwin.csproj|solutionrelative:mission10_godwin\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9FCB2F-742C-450D-BA5E-07F7145AC74D}|Mission10_Godwin\\Mission10_Godwin.csproj|c:\\users\\tater\\onedrive - brigham young university\\classes\\info sys\\is 413 dotnet\\mission10_godwin_bowling\\backend\\mission10_godwin\\mission10_godwin\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9FCB2F-742C-450D-BA5E-07F7145AC74D}|Mission10_Godwin\\Mission10_Godwin.csproj|solutionrelative:mission10_godwin\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9FCB2F-742C-450D-BA5E-07F7145AC74D}|Mission10_Godwin\\Mission10_Godwin.csproj|c:\\users\\tater\\onedrive - brigham young university\\classes\\info sys\\is 413 dotnet\\mission10_godwin_bowling\\backend\\mission10_godwin\\mission10_godwin\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9FCB2F-742C-450D-BA5E-07F7145AC74D}|Mission10_Godwin\\Mission10_Godwin.csproj|solutionrelative:mission10_godwin\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\tater\\OneDrive - Brigham Young University\\Classes\\Info Sys\\IS 413 DotNet\\Mission10_Godwin_Bowling\\backend\\Mission10_Godwin\\Mission10_Godwin\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10_Godwin\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\tater\\OneDrive - Brigham Young University\\Classes\\Info Sys\\IS 413 DotNet\\Mission10_Godwin_Bowling\\backend\\Mission10_Godwin\\Mission10_Godwin\\Models\\Team.cs",
+              "RelativeToolTip": "Mission10_Godwin\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:03:02.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\tater\\OneDrive - Brigham Young University\\Classes\\Info Sys\\IS 413 DotNet\\Mission10_Godwin_Bowling\\backend\\Mission10_Godwin\\Mission10_Godwin\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Mission10_Godwin\\Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\tater\\OneDrive - Brigham Young University\\Classes\\Info Sys\\IS 413 DotNet\\Mission10_Godwin_Bowling\\backend\\Mission10_Godwin\\Mission10_Godwin\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Mission10_Godwin\\Controllers\\BowlerController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:51:15.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\tater\\OneDrive - Brigham Young University\\Classes\\Info Sys\\IS 413 DotNet\\Mission10_Godwin_Bowling\\backend\\Mission10_Godwin\\Mission10_Godwin\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_Godwin\\Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\tater\\OneDrive - Brigham Young University\\Classes\\Info Sys\\IS 413 DotNet\\Mission10_Godwin_Bowling\\backend\\Mission10_Godwin\\Mission10_Godwin\\Models\\Bowler.cs",
+              "RelativeToolTip": "Mission10_Godwin\\Models\\Bowler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:49:43.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

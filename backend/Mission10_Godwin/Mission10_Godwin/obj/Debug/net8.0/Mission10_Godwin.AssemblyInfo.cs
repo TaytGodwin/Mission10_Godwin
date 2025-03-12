@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission10_Godwin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b2bfe96116a3d3f94931698eb9d22e389b0d440")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77e84363f2d99a016067ee7c9aebb084a77ed234")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission10_Godwin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission10_Godwin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
